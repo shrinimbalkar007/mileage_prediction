@@ -1,0 +1,16 @@
+mileage_prediction/
+│
+├── data/
+│   └── your_data.csv
+│
+├── notebooks/
+│   └── mileage_prediction_analysis.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── model.py
+│   └── utils.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
